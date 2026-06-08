@@ -1,5 +1,5 @@
 # hysteria2-pinSHA256-tool
-获取 自签证书的 hysteria2 节点的 pinSHA256
+获取 自签证书节点的 pinSHA256 对于 hysteria2 和 anytls
 
 # 用法
 ```
